@@ -32,6 +32,41 @@
 - 在文案中标注适合插入的截图、录屏和出镜画面
 - 输出封面标题、拍摄执行表、可领取资产建议和发布后复盘标准
 
+## 适合人群
+
+- 想做小红书、视频号、抖音等短视频内容的新手博主
+- 想用 AI / Agent 提高选题、文案、封面、复盘效率的内容创作者
+- 想拆解对标账号、爆款笔记、爆款口播视频的小红书运营
+- 想把重复内容动作沉淀成 Skill / 工作流的 Codex、Claude Code、Hermes、WorkBuddy 用户
+- 想做课程拆解、AI 工具分享、个人 IP、副业内容、知识口播的人
+
+## 适合使用场景
+
+- 看到一条爆款视频，但不知道它为什么火
+- 想把别人的爆款结构迁移成自己的选题
+- 不知道自己的口播视频该怎么写、怎么拍、怎么做封面
+- 想分析点赞、收藏、评论背后的真实需求
+- 想从一个爆款延伸出 3 个适合自己的内容选题
+- 想把“拆爆款”这件事固定成可复用的 Agent 工作流
+
+## 下载方式
+
+### 方式 1：Git 克隆
+
+```bash
+git clone https://github.com/Cosmoslmj/cosmos-xiaohongshuvideo-breakdown.git
+```
+
+### 方式 2：GitHub 页面下载 ZIP
+
+打开仓库页面：
+
+```text
+https://github.com/Cosmoslmj/cosmos-xiaohongshuvideo-breakdown
+```
+
+点击绿色 `Code` 按钮，然后选择 `Download ZIP`。
+
 ## 安装
 
 把本仓库目录放进支持 Skills 的 Agent 的 skills 目录中，确保 `SKILL.md` 位于 skill 根目录。
