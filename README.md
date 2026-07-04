@@ -79,10 +79,10 @@ skills/cosmos-xiaohongshuvideo-breakdown/SKILL.md
 
 ## 关于作者
 
+![宇宙君作者卡片](assets/author-card.png)
+
 我是宇宙君，一名插画师，也是一名正在研究「行业 + AI」真实落地场景的实践者。
 
 我会持续拆解普通人如何用 AI 做内容、提效率、做产品化和变现，也会把自己用得上的工作流整理成可复用的 Skill。
 
 如果这个 Skill 对你有用，欢迎点一个 Star / 推荐，让更多想用 AI 做内容的人看到它。
-
-合作交流学习：`wx: lumeijun780`，备注：`AI公众号`
